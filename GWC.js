@@ -1,0 +1,7 @@
+console.log ("Hi, my name is Keira Evans")
+console.log ("I have a lot of experience in CS from")
+console.log ("both hosting and attending hackathons!")
+console.log ("I think I would be a great nominee")
+console.log ("for the workshop and event planning position.")
+console.log ("Make sure you elect me!!")
+console.log ("Thank you!")
